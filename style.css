@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+/* navabar */
+nav {
+    padding-bottom: 10px;
+    box-shadow: 0 3px 5px 0px rgba(0, 0, 0, 0.169);
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {
+    padding: 5px;
+    width: 15%;
+    height: 100px
+}
+
+.right-side {
+    width: 70%;
+}
+
+.right-side {
+    width: 70%;
+
+    h2 {
+        margin: 13px 0;
+        font-size: 1.7rem;
+        color: rgb(0, 38, 255);
+    }
+
+    span {
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+}
+
+/*download certificate container */
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.container h2 {
+    color: rgb(6, 0, 119);
+    margin: 20px 0;
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 5px 0 gray;
+    padding: 10px;
+    width: 300px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 12px;
+    background: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: darkblue;
+}
+
+#result {
+    margin-top: 45px;
+}
+
+/* result card ui */
+.res-box {
+    padding: 2% 1%;
+    margin: 10px auto;
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 8px;
+    gap: 20px;
+    box-shadow: 0 2px 8px 0px rgba(128, 128, 128, 0.347);
+}
+
+.name {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.error {
+    color: rgb(213, 3, 3) !important;
+    /* background-color: rgba(102, 51, 153, 0.121); */
+    font-size: 1.1rem;
+}
+
+.important {
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+
+    u {
+        border-bottom: 2px double rgb(213, 3, 3);
+    }
+}
+
+.contact {
+    width: 100%;
+
+    a {
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: rgb(213, 3, 3) !important;
+    }
+}
+.all_certi{
+    margin: 10px 0;
+}
+/* for mobile screen  */
+
+@media (max-width:426px) {
+    nav {
+        box-shadow: none;
+        gap: 5px;
+    }
+
+    .logo {
+        width: 25%;
+        height: 65px;
+    }
+
+    .container {
+        margin-top: 100px;
+    }
+
+    input {
+        padding: 12px;
+    }
+    button {
+        padding: 12px 14px;
+    }
+    .right-side {
+        h2 {
+            font-size: 1.1rem;
+        }
+        span {
+            /* margin-top: 15px; */
+            font-size: 0.9rem;
+        }
+        div {
+            padding: 0 3px;
+            padding-bottom: 10px;
+            position: absolute;
+            width: 100%;
+            top: 85px;
+            left: 0;
+            box-shadow: 0 2px 1px 0px rgba(0, 0, 0, 0.169);
+        }
+    }
+
+    .important {
+        width: 80%;
+    }
+
+    .error {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 1%;
+        font-size: 1rem;
+    }
+
+    .contact {
+        a {
+            font-size: 1.1rem;
+        }
+    }
+
+    /* result card ui */
+    .res-box {
+        max-width: 350px;
+        padding: 5%;
+    }
+}
