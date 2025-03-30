@@ -83,13 +83,18 @@ button:hover {
 
 #result {
     margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 /* result card ui */
 .res-box {
     padding: 2% 1%;
     margin: 10px auto;
-    max-width: 400px;
+    width: 350px;
     height: auto;
     display: flex;
     justify-content: center;
@@ -197,7 +202,7 @@ button:hover {
 
     /* result card ui */
     .res-box {
-        max-width: 350px;
+        max-width: 340px;
         padding: 5%;
     }
 }
