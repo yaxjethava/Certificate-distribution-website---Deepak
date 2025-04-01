@@ -17,6 +17,7 @@
 
 const certificates = [
     { name: "શ્રી સોનાલીબેન શાહ", pdfId: "1tbGq4o64sDVeORC3gKj2uA63Qa4N9lSH", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9619583951" },
+    { name: "શ્રી પાર્થ સોલંકી", pdfId: "1FckPqwLeVkrJjtMsl_F7BK3l4Uo64qgh", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9427429266" },
     { name: "શ્રી દિનેશભાઈ લલિતભાઈ જોષીપુરા", pdfId: "1E6EFKoIrHNyleJxbQoPyovEUgFRvEvOA", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9913731684" },
     { name: "શ્રી રીનાબેન રણમલભાઈ ભાટુ", pdfId: "1uHHFIwTNtCi_tpDmUGyQ7cS6BQVuaW6V", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9023130662" },
     { name: "શ્રી નટવરભાઈ આહલપરા", pdfId: "1dMPau_gP2wnqKQxf7mM4nJHY2meg2udc", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9974009042" },
