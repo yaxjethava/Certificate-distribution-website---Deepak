@@ -111,6 +111,11 @@ button:hover {
     font-size: 1.2rem;
 }
 
+.subject {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
 .error {
     color: rgb(213, 3, 3) !important;
     /* background-color: rgba(102, 51, 153, 0.121); */
@@ -137,9 +142,11 @@ button:hover {
         color: rgb(213, 3, 3) !important;
     }
 }
-.all_certi{
+
+.all_certi {
     margin: 10px 0;
 }
+
 /* for mobile screen  */
 
 @media (max-width:426px) {
@@ -160,17 +167,21 @@ button:hover {
     input {
         padding: 12px;
     }
+
     button {
         padding: 12px 14px;
     }
+
     .right-side {
         h2 {
             font-size: 1.1rem;
         }
+
         span {
             /* margin-top: 15px; */
             font-size: 0.9rem;
         }
+
         div {
             padding: 0 3px;
             padding-bottom: 10px;
