@@ -331,7 +331,8 @@ const certificates = [
     { name: "રાજેન્દ્ર કે. હાથી", pdfId: "12QB2XrUzl4eVi4JGvMmzctYBMJbpIcXM", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9824489517" },
     { name: "ફાલ્ગુની રાકેશભાઈ રાઠોડ", pdfId: "19roHzEji2dPbsk5akRUy6xGfHDjCtAlT", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "No Number" },
     { name: "દિલીપ કે. પટેલ", pdfId: "1WlySvFHBpgKZ2fg8UjZ0qM5VgOAxpDbb", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "8401751946" },
-    { name: "વનિતા કે. કોટડીયા", pdfId: "16MpBcnJT0ZggrReAZftcw0AMGODZhlBY", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9428189900" }
+    { name: "વનિતા કે. કોટડીયા", pdfId: "16MpBcnJT0ZggrReAZftcw0AMGODZhlBY", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9428189900" },
+    { name: "મનોજકુમાર સેવંતીલાલ ચોખાવાલા", pdfId: "1B_WGieEs9ee-A892F6Boh0WF4yKtONuP", subject: "માતૃભાષા દિવસ નિબંધ સ્પર્ધા", phone: "9409035308" }
 ]
 
 function searchCertificate() {
