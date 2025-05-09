@@ -872,7 +872,7 @@ const certificates = [
         name: "વિશ્વ એસ.શેલડીયા", phone: "7698476658",
         pdfId: "1cOnGZDOuqOt23Db3Ot7YZhu-uvqZ2eYi", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
-  
+
     {
         name: "સોલંકી ભૂમિષા હરેશભાઈ", phone: "6356074029",
         pdfId: "1hIKhO_VSGdCA9Q16u8PJfpXOhQ9vhW_F", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
@@ -2341,59 +2341,61 @@ const certificates = [
         name: "સોરઠીયા કાવ્યા હાર્દિકભાઈ", phone: "9925593465",
         pdfId: "1nODFdP6xWYs_FZMU_kt6elqcUCCPgUM_", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
-   {
-        name: "શ્રી દેવાંગ વિભાકરભાઈ ઉપાધ્યાય",phone: "9427747996", pdfId: "1KEWdwaBtIA-FepxpFMb8CKqpXRbilEEy", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+    // winners of dashani shaheb
+
+    {
+        name: "શ્રી દેવાંગ વિભાકરભાઈ ઉપાધ્યાય", phone: "9427747996", pdfId: "1KEWdwaBtIA-FepxpFMb8CKqpXRbilEEy", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી પર્લ લાલજીભાઈ રામાણી",phone: "9998964464", pdfId: "18xWuX7a987NRveXJm5iXKfv82N6-ofg5", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી પર્લ લાલજીભાઈ રામાણી", phone: "9998964464", pdfId: "18xWuX7a987NRveXJm5iXKfv82N6-ofg5", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી હેત હરેશભાઈબો રસાણીયા",phone: "7990047485", pdfId: "12w7aKWK9m9AsMT_RKme2QfpVBugFOdqR", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી હેત હરેશભાઈબો રસાણીયા", phone: "7990047485", pdfId: "12w7aKWK9m9AsMT_RKme2QfpVBugFOdqR", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી નીલ દિનેશભાઈ ખેની ",phone: "9424106477", pdfId: "1Ooj9yH0DgTLBeHLjq6WGrYstbAe_hH7u", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી નીલ દિનેશભાઈ ખેની ", phone: "9424106477", pdfId: "1Ooj9yH0DgTLBeHLjq6WGrYstbAe_hH7u", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી વૈષ્ણવી ઘનશ્યામભાઈ બોરડ ",phone: "7863847330", pdfId: "19fx7HeXPlwNxKYEsfhRkZQvvVQqX9kXx", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી વૈષ્ણવી ઘનશ્યામભાઈ બોરડ ", phone: "7863847330", pdfId: "19fx7HeXPlwNxKYEsfhRkZQvvVQqX9kXx", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: " શ્રી સૃષ્ટિ અશ્વિનભાઈ રાદડિયા",phone: "9104854392", pdfId: "1VoI9TECLTfuvme3u9CijZJlxOwcB5Kna", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: " શ્રી સૃષ્ટિ અશ્વિનભાઈ રાદડિયા", phone: "9104854392", pdfId: "1VoI9TECLTfuvme3u9CijZJlxOwcB5Kna", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી સેકડા વાલસિહ માવડા",phone: "8799592893", pdfId: "1I4nvS8WTVlEMEUI7OKW93td-wPlpQYOJ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી સેકડા વાલસિહ માવડા", phone: "8799592893", pdfId: "1I4nvS8WTVlEMEUI7OKW93td-wPlpQYOJ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી મિત્યા પરેશભાઈ શેલાર ",phone: "7405601718", pdfId: "1Llk0XextsPlufqjTWB4XML3X06l3GpGl", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી મિત્યા પરેશભાઈ શેલાર ", phone: "7405601718", pdfId: "1Llk0XextsPlufqjTWB4XML3X06l3GpGl", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી શિહોરા સંજના મનીષભાઈ ",phone: "9919696762", pdfId: "12JiNsxvBkW_3rpVf7OIOB_rKyoP9goqU", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી શિહોરા સંજના મનીષભાઈ ", phone: "9919696762", pdfId: "12JiNsxvBkW_3rpVf7OIOB_rKyoP9goqU", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી મયંતા ભરતભાઈ મહાવર",phone: "9429942271", pdfId: "104InCpLPhe3Wme1iweDsAASmpP4hTg8k", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી મયંતા ભરતભાઈ મહાવર", phone: "9429942271", pdfId: "104InCpLPhe3Wme1iweDsAASmpP4hTg8k", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી કમલેશ ભગવાનભાઈ શિયાળ",phone: "9925494713", pdfId: "1Sge6JLFssg040p_vByugeVKbVEd3ogL6", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી કમલેશ ભગવાનભાઈ શિયાળ", phone: "9925494713", pdfId: "1Sge6JLFssg040p_vByugeVKbVEd3ogL6", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી મહિડા જલ્પા બી.",phone: "8160922752", pdfId: "1qER6jWVXUhvWQAxSuCfsLZD7oQxHM3ZQ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી મહિડા જલ્પા બી.", phone: "8160922752", pdfId: "1qER6jWVXUhvWQAxSuCfsLZD7oQxHM3ZQ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી હેતલ હરેશભાઈ સોલંકી ",phone: "9925294713", pdfId: "1vVYiuYf1LXcrSqqA6OcBDQLmQNHajR2o", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી હેતલ હરેશભાઈ સોલંકી ", phone: "9925294713", pdfId: "1vVYiuYf1LXcrSqqA6OcBDQLmQNHajR2o", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી દિનેશભાઈ લલિતભાઈ જોષીપુરા ",phone: "9913731684", pdfId: "17K41hvgWs4ACHkR6cLTMWNSx6OyTsQQ6", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી દિનેશભાઈ લલિતભાઈ જોષીપુરા ", phone: "9913731684", pdfId: "17K41hvgWs4ACHkR6cLTMWNSx6OyTsQQ6", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી કૃપાલી દિનેશભાઈ કામળીયા ",phone: "9408911280", pdfId: "1PDaUdmMddf8Odz_lrkXcPrLhsPz9qYNZ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી કૃપાલી દિનેશભાઈ કામળીયા ", phone: "9408911280", pdfId: "1PDaUdmMddf8Odz_lrkXcPrLhsPz9qYNZ", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી યોગેશભાઈ નાટુભાઈ ભટ્ટ ",phone: "9924013464", pdfId: "1ifVSF54Sg0PlzZ75C-wVVmBL_AxoLb-f", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી યોગેશભાઈ નાટુભાઈ ભટ્ટ ", phone: "9924013464", pdfId: "1ifVSF54Sg0PlzZ75C-wVVmBL_AxoLb-f", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી સાહિલ મગનભાઈ મકવાણા ",phone: "9265370063", pdfId: "13XcUA5y0ugzu42a06vTplAyL6jh42_6t", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી સાહિલ મગનભાઈ મકવાણા ", phone: "9265370063", pdfId: "13XcUA5y0ugzu42a06vTplAyL6jh42_6t", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી નટુભાઈ શાંતિભાઈ ભટ્ટ ",phone: "9409042034", pdfId: "12Dn6-2T-DTzDkRL0BwUMpFDMr4JEUeeF", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા"
+        name: "શ્રી નટુભાઈ શાંતિભાઈ ભટ્ટ ", phone: "9409042034", pdfId: "12Dn6-2T-DTzDkRL0BwUMpFDMr4JEUeeF", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા"
     }
 ]
 
