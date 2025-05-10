@@ -2371,7 +2371,7 @@ const certificates = [
         name: "શ્રી શિહોરા સંજના મનીષભાઈ ", phone: "9919696762", pdfId: "12JiNsxvBkW_3rpVf7OIOB_rKyoP9goqU", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
-        name: "શ્રી મયંતા ભરતભાઈ મહાવર", phone: "9429942271", pdfId: "104InCpLPhe3Wme1iweDsAASmpP4hTg8k", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
+        name: "શ્રી મયંતા ભરતભાઈ મણવર", phone: "9427742271", pdfId: "15ts1Ygf7YmTQxoTc8PdaT4gFfrTrXp8S", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
     },
     {
         name: "શ્રી કમલેશ ભગવાનભાઈ શિયાળ", phone: "9925494713", pdfId: "1Sge6JLFssg040p_vByugeVKbVEd3ogL6", subject: "શ્રી દશાણી સાહેબ નિબંધ સ્પર્ધા "
